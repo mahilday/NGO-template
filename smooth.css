@@ -178,8 +178,9 @@ main article:nth-child(4) h2{
     left:42%;
     width:30vw;
     padding: 20px;
+    text-transform: uppercase;
     /* border-top-left-radius: 20px; */
-    border-left: 2px solid orangered;
+    /* border-left: 2px solid orangered; */
     /* border-bottom: 2px solid orange; */
     /* border-bottom-right-radius: 40px; */
     margin-bottom: 10vh;
